@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "775241101197",
+    "firebase_url": "https://myfirstfirebasedapp.firebaseio.com",
+    "project_id": "myfirstfirebasedapp",
+    "storage_bucket": "myfirstfirebasedapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775241101197:android:93c715b028136fe2",
+        "android_client_info": {
+          "package_name": "com.example.arminmehran.myfirstfirebasedapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775241101197-7v54s0q7rp7a9ceh1uc4irucqv9co78p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": "",
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
